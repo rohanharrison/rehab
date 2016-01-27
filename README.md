@@ -6,3 +6,5 @@ The University of Hartford's Department of Rehabilitation Sciences requested a p
 
 # Technology
 The website is accomplished using Bootstrap and jQuery for dynamic scaling for desktop and mobile. The website also uses PHP to create a templating system for common header and body files which may be cached for a smaller bandwidth footprint.
+
+
