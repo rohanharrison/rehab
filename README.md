@@ -1,5 +1,5 @@
 # rehab
-Link: http://rohanharrison.com/rehab/
+Link: http://rohanharrison.com/projects/rehab/
 
 # Description
 The University of Hartford's Department of Rehabilitation Sciences requested a primarily mobile website which could be accessed from low bandwidth Internet services in third world countries. The website includes all of the necessarily information requested by the group, including posters that they had created themselves.
